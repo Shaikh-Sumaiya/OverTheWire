@@ -365,3 +365,6 @@ A file named `data6.bin` can still be a bzip2 stream, and a file named `data3` c
 ## Conclusion
 
 Bandit Level 12 → Level 13 involved reversing a hexdump and working through multiple layers of GZIP, bzip2, and TAR formats. The most important lesson was to identify each layer using `file`, apply the appropriate tool, and repeat the process until readable text was recovered.
+
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/3ac14e36-80a2-4018-8c18-bb5f963a67b0" />
